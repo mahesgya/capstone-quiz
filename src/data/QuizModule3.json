@@ -1,0 +1,327 @@
+[
+  {
+    "No": 1,
+    "Topik": "Klasifikasi Data Pribadi",
+    "Pertanyaan": "Berdasarkan UU No. 27 Tahun 2022, manakah yang termasuk dalam kategori Data Pribadi yang bersifat spesifik?",
+    "Pilihan": [
+      "A. Nama lengkap dan alamat",
+      "B. Data kesehatan dan data biometrik",
+      "C. Jenis kelamin dan kewarganegaraan",
+      "D. Agama dan status perkawinan"
+    ],
+    "Jawaban": "B. Data kesehatan dan data biometrik.",
+    "Pembahasan": "Data pribadi yang bersifat spesifik menurut undang-undang meliputi data kesehatan, biometrik, genetika, catatan kejahatan, data anak, dan data keuangan pribadi."
+  },
+  {
+    "No": 2,
+    "Topik": "Klasifikasi Data Pribadi",
+    "Pertanyaan": "Informasi mengenai agama, status perkawinan, dan nama lengkap menurut UU PDP digolongkan sebagai?",
+    "Pilihan": [
+      "A. Data Pribadi Umum",
+      "B. Data Pribadi Spesifik",
+      "C. Data Publik",
+      "D. Data Sensitif"
+    ],
+    "Jawaban": "A. Data Pribadi Umum.",
+    "Pembahasan": "Data pribadi yang bersifat umum meliputi nama lengkap, jenis kelamin, kewarganegaraan, agama, dan status perkawinan."
+  },
+  {
+    "No": 3,
+    "Topik": "Klasifikasi Data Pribadi",
+    "Pertanyaan": "Jika suatu data dikombinasikan sehingga dapat mengidentifikasi seseorang, data tersebut diklasifikasikan sebagai apa menurut UU PDP?",
+    "Pilihan": [
+      "A. Data Pribadi Spesifik",
+      "B. Data Pribadi Umum",
+      "C. Data Anonim",
+      "D. Danger Zone"
+    ],
+    "Jawaban": "B. Data Pribadi Umum.",
+    "Pembahasan": "Data pribadi umum juga mencakup data pribadi yang dikombinasikan untuk mengidentifikasi seseorang."
+  },
+  {
+    "No": 4,
+    "Topik": "Klasifikasi Data Pribadi",
+    "Pertanyaan": "Manakah dari data berikut yang bukan termasuk Data Pribadi spesifik?",
+    "Pilihan": [
+      "A. Catatan kejahatan",
+      "B. Data anak",
+      "C. Kewarganegaraan",
+      "D. Data genetika"
+    ],
+    "Jawaban": "C. Kewarganegaraan.",
+    "Pembahasan": "Kewarganegaraan adalah bagian dari Data Pribadi yang bersifat umum, sementara catatan kejahatan, data anak, dan genetika adalah data spesifik."
+  },
+  {
+    "No": 5,
+    "Topik": "Klasifikasi Data Pribadi",
+    "Pertanyaan": "Data terkait tabungan, deposito, dan kartu kredit diklasifikasikan sebagai apa dalam UU PDP?",
+    "Pilihan": [
+      "A. Data Pribadi Spesifik",
+      "B. Data Pribadi Umum",
+      "C. Data Korporasi",
+      "D. Bebas disebarkan"
+    ],
+    "Jawaban": "A. Data Pribadi Spesifik.",
+    "Pembahasan": "Data keuangan pribadi merupakan bagian dari data pribadi yang bersifat spesifik."
+  },
+  {
+    "No": 6,
+    "Topik": "Klasifikasi Data Pribadi",
+    "Pertanyaan": "Data berupa daktiloskopi (sidik jari) atau retina mata yang digunakan untuk mengenali karakteristik individu masuk dalam kategori data apa?",
+    "Pilihan": [
+      "A. Data genetika",
+      "B. Data biometrik",
+      "C. Data umum",
+      "D. Data kesehatan fisik"
+    ],
+    "Jawaban": "B. Data biometrik.",
+    "Pembahasan": "Data biometrik berkaitan dengan fisik atau fisiologis yang memungkinkan identifikasi unik, dan masuk ke dalam data spesifik."
+  },
+  {
+    "No": 7,
+    "Topik": "Klasifikasi Data Pribadi",
+    "Pertanyaan": "Catatan kepolisian atau daftar pencegahan dan penangkalan seseorang termasuk ke dalam jenis data apa?",
+    "Pilihan": [
+      "A. Data Pribadi Umum",
+      "B. Data Korporasi",
+      "C. Data Pribadi Spesifik (Catatan Kejahatan)",
+      "D. Data Publik"
+    ],
+    "Jawaban": "C. Data Pribadi Spesifik (Catatan Kejahatan).",
+    "Pembahasan": "Catatan tertulis tentang perbuatan melawan hukum masuk dalam kategori data spesifik berupa catatan kejahatan."
+  },
+  {
+    "No": 8,
+    "Topik": "Identifikasi Risiko AI Publik",
+    "Pertanyaan": "Mengapa memasukkan data seperti Nomor Induk Kependudukan (NIK) ke dalam platform AI publik dilarang keras (Danger Zone)?",
+    "Pilihan": [
+      "A. AI akan otomatis mengunci perangkat Anda",
+      "B. Data tersebut dapat tersimpan selamanya dan berisiko muncul (regurgitasi) di sesi pengguna lain",
+      "C. AI tidak bisa membaca format NIK",
+      "D. AI akan menghapus data tersebut secara default"
+    ],
+    "Jawaban": "B. Data tersebut dapat tersimpan selamanya dan berisiko muncul di sesi pengguna lain.",
+    "Pembahasan": "Data sensitif yang bocor ke sistem AI publik tidak privat secara default dan bisa melatih ulang model AI sehingga berisiko regurgitasi."
+  },
+  {
+    "No": 9,
+    "Topik": "Identifikasi Risiko AI Publik",
+    "Pertanyaan": "Apa makna dari kalimat \"Inputs may be used to improved our models\" pada Terms of Use aplikasi AI publik?",
+    "Pilihan": [
+      "A. Data kita dienkripsi dengan standar tinggi",
+      "B. Data tersebut dianggap tidak rahasia dan bisa digunakan untuk melatih sistem mereka",
+      "C. Platform memberikan jaminan privasi penuh",
+      "D. Hanya pengguna premium yang bisa melihat data tersebut"
+    ],
+    "Jawaban": "B. Data tersebut dianggap tidak rahasia.",
+    "Pembahasan": "Jika peringatan tersebut ada, alat AI publik akan menyimpan teks yang kita ketik untuk melatih ulang sistem, sehingga data menjadi tidak rahasia."
+  },
+  {
+    "No": 10,
+    "Topik": "Identifikasi Risiko AI Publik",
+    "Pertanyaan": "Berdasarkan Pedoman Etika AI, penggunaan AI untuk merangkum naskah dinas diperbolehkan dengan syarat mutlak yaitu?",
+    "Pilihan": [
+      "A. Harus menggunakan AI berbayar",
+      "B. Harus mencantumkan sumber AI di akhir naskah",
+      "C. Seluruh identitas (seperti nama, alamat, NIK) wajib dianonimkan terlebih dahulu",
+      "D. Tidak boleh ada angka di dalam naskah"
+    ],
+    "Jawaban": "C. Seluruh identitas wajib dianonimkan terlebih dahulu.",
+    "Pembahasan": "Pemanfaatan AI untuk merangkum naskah diizinkan selama data identitas disamarkan atau dianonimkan untuk menjaga privasi."
+  },
+  {
+    "No": 11,
+    "Topik": "Identifikasi Risiko AI Publik",
+    "Pertanyaan": "Sebagai pengguna AI di sektor publik, Anda bertindak sebagai Pengendali Data Pribadi. Apa sanksi terberat jika terjadi penyalahgunaan data secara sengaja menurut UU PDP?",
+    "Pilihan": [
+      "A. Pemotongan gaji",
+      "B. Penjara 4-5 tahun dan denda miliaran rupiah",
+      "C. Denda 50 juta rupiah",
+      "D. Pemblokiran internet"
+    ],
+    "Jawaban": "B. Penjara 4-5 tahun dan denda miliaran rupiah.",
+    "Pembahasan": "Sanksi pidana diberikan bagi penyalahgunaan data secara sengaja yang merugikan subjek data."
+  },
+  {
+    "No": 12,
+    "Topik": "Identifikasi Risiko AI Publik",
+    "Pertanyaan": "Manakah dari jenis data berikut yang termasuk ke dalam wilayah \"Danger Zone\" jika dimasukkan ke prompt AI publik?",
+    "Pilihan": [
+      "A. Draf ide inovasi kegiatan",
+      "B. Kerangka paparan presentasi publik",
+      "C. Nama lengkap, NIK, dan Riwayat Kasus warga",
+      "D. Pedoman Ejaan Bahasa Indonesia (PUEBI)"
+    ],
+    "Jawaban": "C. Nama lengkap, NIK, dan Riwayat Kasus warga.",
+    "Pembahasan": "Data tersebut merupakan data privasi yang dilarang keras dimasukkan ke alat AI publik."
+  },
+  {
+    "No": 13,
+    "Topik": "Identifikasi Risiko AI Publik",
+    "Pertanyaan": "Di banyak platform AI publik populer, apa status privasi data yang kita masukkan secara default (bawaan)?",
+    "Pilihan": [
+      "A. Otomatis terlindungi sistem enkripsi ganda",
+      "B. Menjadi hak milik pengguna selamanya",
+      "C. Menjadi tidak privat dan rentan bocor ke publik",
+      "D. Hanya bisa diakses oleh Pemerintah"
+    ],
+    "Jawaban": "C. Menjadi tidak privat dan rentan bocor ke publik.",
+    "Pembahasan": "Banyak perangkat AI publik tidak dirancang untuk melindungi privasi data secara otomatis."
+  },
+  {
+    "No": 14,
+    "Topik": "Identifikasi Risiko AI Publik",
+    "Pertanyaan": "Apa tindakan penggunaan AI yang secara tegas DILARANG di sektor publik terkait pengambilan keputusan?",
+    "Pilihan": [
+      "A. Memperbaiki tata bahasa",
+      "B. Mencari referensi literatur",
+      "C. Mengambil keputusan hukum final atau penentu nasib manusia secara otomatis",
+      "D. Membuat draf administratif ringan"
+    ],
+    "Jawaban": "C. Mengambil keputusan hukum final.",
+    "Pembahasan": "AI tidak boleh ditetapkan sebagai penentu kebijakan akhir yang berdampak mutlak; keputusan harus divalidasi oleh manusia."
+  },
+  {
+    "No": 15,
+    "Topik": "Mitigasi Bias AI",
+    "Pertanyaan": "Apa yang dimaksud dengan Bias Algoritma dalam sistem AI?",
+    "Pilihan": [
+      "A. Kemampuan AI untuk belajar dengan sangat cepat",
+      "B. Kecenderungan AI menghasilkan luaran yang diskriminatif, tidak adil, atau memihak akibat data latih historis",
+      "C. Fitur AI untuk merangkum data dalam bentuk tabel",
+      "D. Proses mempercepat render grafis pada komputer"
+    ],
+    "Jawaban": "B. Kecenderungan AI menghasilkan luaran yang diskriminatif.",
+    "Pembahasan": "Bias ini terjadi karena AI dilatih menggunakan data internet historis yang bisa saja mengandung ketimpangan atau prasangka."
+  },
+  {
+    "No": 16,
+    "Topik": "Mitigasi Bias AI",
+    "Pertanyaan": "AI merekomendasikan profil kemiskinan yang tidak proporsional pada wilayah tertentu. Ini merupakan contoh dari ancaman apa?",
+    "Pilihan": [
+      "A. Kebocoran Danger Zone",
+      "B. Halusinasi AI",
+      "C. Deepfake",
+      "D. Bias Algoritma"
+    ],
+    "Jawaban": "D. Bias Algoritma.",
+    "Pembahasan": "Contoh ancaman bias algoritma adalah saat AI merekomendasikan profil yang tidak adil atau menyusun surat dengan diksi bias gender secara tidak sadar."
+  },
+  {
+    "No": 17,
+    "Topik": "Mitigasi Bias AI",
+    "Pertanyaan": "Anda mendapati draf surat dari AI menggunakan kata-kata yang menyinggung kelompok masyarakat tertentu. Strategi mitigasi apa yang harus diterapkan?",
+    "Pilihan": [
+      "A. Menghapus akun AI tersebut",
+      "B. Menerapkan Evaluasi Skeptis dengan melakukan pemeriksaan ulang untuk meniadakan bahasa diskriminatif",
+      "C. Langsung mengirimkannya karena AI lebih cerdas",
+      "D. Menyebarkannya ke publik sebagai bentuk deepfake"
+    ],
+    "Jawaban": "B. Menerapkan Evaluasi Skeptis / Pemeriksaan ulang.",
+    "Pembahasan": "Penting untuk melakukan evaluasi skeptis dan meniadakan potensi bahasa yang diskriminatif sebelum output digunakan."
+  },
+  {
+    "No": 18,
+    "Topik": "Mitigasi Bias AI",
+    "Pertanyaan": "Apa prinsip fundamental yang memastikan manusia tetap menjadi pengambil keputusan yang bijaksana, di mana AI hanya bertugas sebagai alat bantu?",
+    "Pilihan": [
+      "A. Artificial General Intelligence",
+      "B. Deep Learning",
+      "C. Human-in-the-Loop",
+      "D. Machine Learning"
+    ],
+    "Jawaban": "C. Human-in-the-Loop.",
+    "Pembahasan": "Prinsip ini menegaskan bahwa keputusan akhir, validasi silang, dan penyuntingan harus senantiasa dilakukan oleh akal budi manusia."
+  },
+  {
+    "No": 19,
+    "Topik": "Mitigasi Bias AI",
+    "Pertanyaan": "Jika layanan publik atau dokumen resmi disusun dengan melibatkan bantuan AI, apa yang diwajibkan oleh pilar Etika AI?",
+    "Pilihan": [
+      "A. Merahasiakan hal tersebut agar warga tidak panik",
+      "B. Bersikap jujur dan terbuka (Transparansi) kepada masyarakat mengenai hal tersebut",
+      "C. Membayar royalti kepada pembuat AI",
+      "D. Menambahkan label \"Sepenuhnya buatan mesin\""
+    ],
+    "Jawaban": "B. Bersikap jujur dan terbuka (Transparansi).",
+    "Pembahasan": "Masyarakat berhak mengetahui apabila proses pelayanan publik yang mereka terima didukung atau dikurasi oleh sistem AI."
+  },
+  {
+    "No": 20,
+    "Topik": "Mitigasi Bias AI",
+    "Pertanyaan": "Mengapa AI rentan menghasilkan \"halusinasi\" yang membuat informasinya terkesan akurat padahal salah?",
+    "Pilihan": [
+      "A. Karena AI memiliki emosi",
+      "B. Karena AI dirancang untuk berbohong",
+      "C. Karena AI pada dasarnya hanya memprediksi kata berdasarkan probabilitas data latihnya",
+      "D. Karena platform AI selalu diretas"
+    ],
+    "Jawaban": "C. Karena AI hanya memprediksi kata.",
+    "Pembahasan": "AI memprediksi kata selanjutnya dalam sebuah kalimat, sehingga rentan menghasilkan halusinasi; fakta harus selalu diverifikasi secara silang."
+  },
+  {
+    "No": 21,
+    "Topik": "Identifikasi Deepfake",
+    "Pertanyaan": "Apa yang dimaksud dengan Deepfake?",
+    "Pilihan": [
+      "A. Model AI yang menganalisis kedalaman laut",
+      "B. Manipulasi audio, video, atau citra wajah menggunakan AI yang bertujuan untuk menipu dengan tingkat realisme tinggi",
+      "C. Cara AI mengenkripsi data secara mendalam",
+      "D. Kesalahan prediksi teks pada chatbot"
+    ],
+    "Jawaban": "B. Manipulasi audio, video, atau citra wajah.",
+    "Pembahasan": "Deepfake bertujuan menyebarkan hoaks atau memanipulasi informasi publik dengan kemiripan dan realisme yang sangat tinggi."
+  },
+  {
+    "No": 22,
+    "Topik": "Identifikasi Deepfake",
+    "Pertanyaan": "Sebuah video beredar menunjukkan seorang tokoh negara menguasai bahasa asing dengan lip-sync yang sangat presisi dan menyatakan propaganda. Ini adalah contoh kejahatan?",
+    "Pilihan": [
+      "A. Bias Algoritma",
+      "B. Halusinasi Prediktif",
+      "C. Deepfake sebagai alat polarisasi dan propaganda",
+      "D. Danger Zone Breach"
+    ],
+    "Jawaban": "C. Deepfake sebagai alat polarisasi dan propaganda.",
+    "Pembahasan": "Teknologi AI dapat memanipulasi video tokoh secara presisi tinggi untuk tujuan polarisasi."
+  },
+  {
+    "No": 23,
+    "Topik": "Identifikasi Deepfake",
+    "Pertanyaan": "Strategi mitigasi utama apa yang sangat dianjurkan untuk menghadapi ancaman Deepfake?",
+    "Pilihan": [
+      "A. Saring Sebelum Sharing",
+      "B. Membalas dengan deepfake lain",
+      "C. Menutup akun media sosial",
+      "D. Menyebarkan video tersebut secepat mungkin"
+    ],
+    "Jawaban": "A. Saring Sebelum Sharing.",
+    "Pembahasan": "Langkah awal yang penting adalah tidak langsung membagikan konten yang mencurigakan, melainkan menyaringnya terlebih dahulu."
+  },
+  {
+    "No": 24,
+    "Topik": "Identifikasi Deepfake",
+    "Pertanyaan": "Dalam langkah mitigasi Deepfake, apa fungsi dari menumbuhkan \"Nalar Kritis\"?",
+    "Pilihan": [
+      "A. Untuk mencari keuntungan finansial dari kelemahan AI",
+      "B. Mempertimbangkan apakah konten tersebut sengaja dibuat untuk memancing provokasi atau emosi publik",
+      "C. Menolak semua penggunaan teknologi dalam layanan publik",
+      "D. Membuat masyarakat takut pada AI"
+    ],
+    "Jawaban": "B. Mempertimbangkan apakah konten tersebut sengaja dibuat untuk memancing provokasi.",
+    "Pembahasan": "Nalar kritis membantu pengguna untuk bersikap skeptis dan tidak mudah terpancing emosi oleh hoaks visual."
+  },
+  {
+    "No": 25,
+    "Topik": "Identifikasi Deepfake",
+    "Pertanyaan": "Apabila Anda terlanjur menemukan konten deepfake yang mencurigakan terkait layanan publik, tindakan pamungkas yang harus segera dilakukan adalah?",
+    "Pilihan": [
+      "A. Melaporkannya ke kanal resmi IT instansi atau platform terkait sebelum disebarluaskan",
+      "B. Membagikannya ke grup keluarga dengan peringatan",
+      "C. Menghapus aplikasi WhatsApp atau media sosial Anda",
+      "D. Melakukan Human-in-the-loop pada video tersebut"
+    ],
+    "Jawaban": "A. Melaporkannya ke kanal resmi IT instansi.",
+    "Pembahasan": "Pelaporan dini ke otoritas IT atau platform adalah langkah penanganan yang tepat sebelum hoaks menyebar luas ke masyarakat."
+  }
+]
